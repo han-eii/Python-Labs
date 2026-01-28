@@ -1,1 +1,25 @@
+print ('Welcome to Python Programming!')
+print ('Name: Layan Mohammed')
+print ('Course: Advanced Programming Method')
+# The code will peint the welcomig word
+# The code will print my name and the course name
 
+student_name = "Alice"
+age = 20
+gpa = 3.75
+subjects = [ "Math" , "Python" , "Physics" ]
+student_info = {"id" : 101, 
+              "year" : 2
+             }
+skills = {"Python" , "SQL"}
+in_enrolled = True
+graduation_date = None
+
+print(student_name, type(student_name))
+print(age, type(age))
+print(gpa,type(gpa))
+print(subjects ,type(subjects))
+print(student_info ,type(student_info))
+print(skills, type(skills))
+print(in_enrolled ,type(in_enrolled))
+print(graduation_date ,type(graduation_date))
