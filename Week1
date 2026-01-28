@@ -1,7 +1,7 @@
 print ('Welcome to Python Programming!')
 print ('Name: Layan Mohammed')
 print ('Course: Advanced Programming Method')
-# The code will peint the welcomig word
+# The code will print the welcoming word
 # The code will print my name and the course name
 
 student_name = "Alice"
